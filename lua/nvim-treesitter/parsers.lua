@@ -2006,6 +2006,15 @@ return {
     maintainers = { '@WhyNotHugo' },
     tier = 2,
   },
+  scss = {
+    install_info = {
+      revision = 'c478c6868648eff49eb04a4df90d703dc45b312a',
+      url = 'https://github.com/serenadeai/tree-sitter-scss',
+    },
+    maintainers = { '@elianiva' },
+    requires = { 'css' },
+    tier = 2,
+  },
   scheme = {
     install_info = {
       revision = 'c6cb7c7d7a04b3f5d999c28e2e9c0c31b2d50ece',
